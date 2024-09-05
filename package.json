@@ -19,6 +19,7 @@
     "@cloudflare/workers-types": "^4.20240821.1",
     "h3": "^1.12.0",
     "nitro-cloudflare-dev": "^0.1.6",
+    "nitropack": "^2.9.7",
     "wrangler": "^3.73.0"
   }
 }
